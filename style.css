@@ -1,0 +1,52 @@
+.navbar {
+  background-color: white;
+  padding: 10px 0;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.9);
+}
+.navbar-brand {
+    font-weight: bold;
+    font-size: 24px;
+  }
+.body{
+  line-height: 1.7;
+  color: var(--body);
+}
+.hero{
+  background-image: url("https://www.gizmodo.com.au/wp-content/uploads/sites/2/2020/11/11/iStock-1157290024.jpg");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  position: 
+  z-index: 2;
+  text-shadow: 3px 3px 5px #fd7e14;
+}
+.computer-images {
+  height: auto;
+  max-width: 22vw;
+  display: inline-block;
+  -webkit-filter: drop-shadow(5px 5px 5px #222222);
+  filter: drop-shadow(5px 5px 5px #222222);
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 
+  0 0 10px rgba(0, 0, 0, 0.8), 
+  0 0 20px rgba(0, 0, 0, 0.2);
+}
+.container {
+  text-align: center;
+}
+.container img {
+  display: inline-block;
+}
+
+
+
+
+
+
+
+
+
